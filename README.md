@@ -16,7 +16,7 @@ O sidebar responsivo contém a opção de minimizá-lo, o sidebar também conté
 
 # Autor
 
-(Créditos para o canal "CodinLab" no YouTube de onde foi retirado o tutorial)
+(Créditos para o canal "CodingLab" no YouTube de onde foi retirado o tutorial)
 
 Pedro Henrique Silva Bonfim
 
